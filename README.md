@@ -13,9 +13,9 @@ Desarrollador orientado a la creación de APIs robustas y la integración de har
 
 ### 🚀 Proyectos Destacados
 
-- ♻️ **[EcoRutas](Enlace-a-tu-nuevo-repo-EcoRutas):** Sistema de monitoreo inteligente de residuos. Plataforma IoT con Backend en .NET 8, base de datos PostgreSQL (Neon), autenticación JWT y control de acceso (RBAC). Hardware operado mediante Arduino/ESP32 con sensores ultrasónicos y filtro de ruido.
+- ♻️ **[EcoRutas](https://github.com/FjMiranda3121/EcoRutas-IoT-Platform.git):** Sistema de monitoreo inteligente de residuos. Plataforma IoT con Backend en .NET 8, base de datos PostgreSQL (Neon), autenticación JWT y control de acceso (RBAC). Hardware operado mediante Arduino/ESP32 con sensores ultrasónicos y filtro de ruido.
 
 ### 📫 Conecta conmigo
 
-- **LinkedIn:** [linkedin.com/in/tu-enlace-limpio](https://linkedin.com/in/tu-enlace-limpio)
+- **LinkedIn:** [linkedin.com/in/tu-enlace-limpio](https://www.linkedin.com/in/franklin-miranda-dev/)
 - **Email:** franklin_miranda05@outlook.com
