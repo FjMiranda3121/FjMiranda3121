@@ -17,5 +17,5 @@ Desarrollador orientado a la creación de APIs robustas y la integración de har
 
 ### 📫 Conecta conmigo
 
-- **LinkedIn:** [linkedin.com/in/tu-enlace-limpio](https://www.linkedin.com/in/franklin-miranda-dev/)
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/franklin-miranda-dev/)
 - **Email:** franklin_miranda05@outlook.com
